@@ -17,3 +17,6 @@ eg:
     refactor(parser): simplify token flow
     test(strategy): add dual momentum coverage
     chore(deps): bump pandas to 2.2
+
+# 项目文档
+详细的项目介绍、功能说明和使用指南请查看：[README-project.md](README-project.md)
